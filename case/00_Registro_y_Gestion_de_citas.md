@@ -1,5 +1,5 @@
-REGISTRO Y ORGANIZACIÓN DE CITAS DE SERVICIOS
-Descripción del caso
+##REGISTRO Y ORGANIZACIÓN DE CITAS DE SERVICIOS
+##Descripción del caso
 Net 365 Solution es un pequeño negocio que se dedica a brindar servicios técnicos para equipos como celulares, laptops, computadoras y también impresoras. Además, vende algunos accesorios tecnológicos como audífonos o teclados. Actualmente están trabajando en el desarrollo de una página web para facilitar la atención a los clientes que desean solicitar alguno de estos servicios.
 El proceso para agendar una atención tiene dos pasos: primero, el cliente llena un formulario en la web donde deja sus datos, el tipo de equipo, el servicio que necesita y si quiere que lo atiendan en el local o en su casa. Luego, alguien del negocio se pone en contacto para conversar con más detalle, acordar el precio y confirmar la cita. Después de eso, el cliente completa un segundo formulario con la información final, como la hora exacta y la dirección si es a domicilio.
 Aunque este proceso ayuda a mantener el trato cercano con el cliente, también puede volverse complicado si no se lleva un buen control. Por eso, es importante contar con un sistema que permita registrar bien cada solicitud, tener un historial de los servicios hechos y, sobre todo, organizar mejor las citas pendientes para no olvidar ninguna.
