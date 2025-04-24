@@ -3,11 +3,12 @@
 ## Diseño Lógico
 
 - **Diseño Lógico de Base de Datos**
-![Diagrama Lógico](c:\Users\NET365 SOLUTION\Downloads\dl_SolicitudesServicios-2025-04-23_00-39.png)
+![Diagrama Lógico](image/dl_SolicitudesServicios.png)
 
 ## Diseño Físico
 
 - **Diseño Físico de Base de Datos**
+![Texto alternativo](image/df_SolicitudesServicios.png)
 
 ## Diccionario de Datos
 
