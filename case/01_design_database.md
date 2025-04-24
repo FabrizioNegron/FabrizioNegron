@@ -8,7 +8,7 @@
 ## Diseño Físico
 
 - **Diseño Físico de Base de Datos**
-  ![Texto alternativo](image/df_SolicitudesServicios.png)
+  ![Diagrama Fisico](image/df_SolicitudesServicios.png)
 
 ## Diccionario de Datos
 
